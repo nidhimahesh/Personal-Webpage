@@ -32,5 +32,5 @@ Welcome to the GitHub repository for my **personal portfolio website**, designed
 ## 🚀 How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/portfolio-website.git
-   cd portfolio-website
+   git clone https://github.com/your-username/Personal-Webpage.git
+   cd Personal-Webpage
